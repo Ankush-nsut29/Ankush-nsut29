@@ -44,13 +44,13 @@
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankush-nsut29&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankush-nsut29&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&rank_icon=github" alt="GitHub Stats" width="495" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-nsut29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-nsut29&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&langs_count=8" alt="Top Languages" width="495" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Ankush-nsut29&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ankush-nsut29&theme=radical&hide_border=true" alt="GitHub Streak" width="495" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush-nsut29&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush-nsut29&theme=react-dark&hide_border=true" alt="Activity Graph" width="495" />
 </div>
 
 <div align="center">
@@ -59,77 +59,23 @@
 
 <h2 align="center">🏆 Competitive Programming</h2>
 
-<div align="center">
-
-  <a href="https://leetcode.com/u/isaidduh/">
-    <img src="https://img.shields.io/badge/LeetCode-isaidduh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/akcodesalot">
-    <img src="https://img.shields.io/badge/Codeforces-akcodesalot-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-
+<p align="center">
+  <a href="https://leetcode.com/u/isaidduh/"><img src="https://img.shields.io/badge/LeetCode-isaidduh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="260" height="28" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/akcodesalot"><img src="https://img.shields.io/badge/Codeforces-akcodesalot-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="260" height="28" /></a>
   <br/><br/>
+  <a href="https://www.codechef.com/users/akcodesalot_99"><img src="https://img.shields.io/badge/CodeChef-akcodesalot__99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" width="260" height="28" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/ak202taz0/"><img src="https://img.shields.io/badge/GeeksforGeeks-ak202taz0-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" width="260" height="28" /></a>
+</p>
 
-  <a href="https://www.codechef.com/users/akcodesalot_99">
-    <img src="https://img.shields.io/badge/CodeChef-akcodesalot__99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/ak202taz0/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-ak202taz0-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" />
 </div>
 
-<details>
-<summary><h2 align="center" style="display:inline-block">🎯 My Pokémon Team (The Grind Squad)</h2></summary>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png" width="100" alt="Alakazam" /><br/>
-        <b>Alakazam</b><br/>
-        <i>5000 IQ for DP problems</i>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png" width="100" alt="Machamp" /><br/>
-        <b>Machamp</b><br/>
-        <i>Carrying the team through graph theory</i>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png" width="100" alt="Snorlax" /><br/>
-        <b>Snorlax</b><br/>
-        <i>Me resting after a 3-hour CF round</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png" width="100" alt="Gyarados" /><br/>
-        <b>Gyarados</b><br/>
-        <i>Evolved from the Magikarp of Syntax Errors</i>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png" width="100" alt="Metagross" /><br/>
-        <b>Metagross</b><br/>
-        <i>Computing edge cases like a supercomputer</i>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100" alt="Pikachu" /><br/>
-        <b>Pikachu</b><br/>
-        <i>High voltage energy at 3 AM coding sessions</i>
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" />
-</div>
+
 
 <h2 align="center">🔗 Let's Connect</h2>
 <div align="center">
