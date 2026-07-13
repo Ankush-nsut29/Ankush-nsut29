@@ -72,11 +72,11 @@
   </a>
   <br/><br/>
   <a href="https://www.codechef.com/users/akcodesalot_99">
-    <img src="https://codechef-readme-stats.onrender.com/akcodesalot_99" alt="CodeChef Stats" />
+    <img src="https://img.shields.io/badge/CodeChef-akcodesalot__99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Stats" />
   </a>
   <br/><br/>
   <a href="https://www.geeksforgeeks.org/user/ak202taz0/">
-    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=ak202taz0&theme=dark" alt="GeeksforGeeks Stats" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-ak202taz0-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Stats" />
   </a>
 </div>
 
