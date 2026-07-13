@@ -71,11 +71,10 @@
 
 <div align="center">
   <a href="https://www.codechef.com/users/akcodesalot_99">
-    <img src="https://img.shields.io/badge/CodeChef-akcodesalot__99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Stats" />
+    <img src="https://codechef-readme-stats.onrender.com/akcodesalot_99?theme=dark" alt="CodeChef Stats" width="400" />
   </a>
-  &nbsp;
   <a href="https://www.geeksforgeeks.org/user/ak202taz0/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-ak202taz0-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Stats" />
+    <img src="https://gfgstatscard.vercel.app/ak202taz0?theme=dark" alt="GeeksforGeeks Stats" width="400" />
   </a>
 </div>
 
