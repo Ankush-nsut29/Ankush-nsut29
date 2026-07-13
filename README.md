@@ -61,20 +61,19 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/isaidduh/">
-    <img src="https://leetcard.jacoblin.cool/isaidduh?theme=dark&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/isaidduh?theme=dark&ext=activity" alt="LeetCode Stats" width="400" />
+  </a>
+  <a href="https://codeforces.com/profile/akcodesalot">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=akcodesalot&theme=dark" alt="Codeforces Stats" width="400" />
   </a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://codeforces.com/profile/akcodesalot">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=akcodesalot&theme=dark" alt="Codeforces Stats" />
-  </a>
-  <br/><br/>
   <a href="https://www.codechef.com/users/akcodesalot_99">
     <img src="https://img.shields.io/badge/CodeChef-akcodesalot__99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Stats" />
   </a>
-  <br/><br/>
+  &nbsp;
   <a href="https://www.geeksforgeeks.org/user/ak202taz0/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-ak202taz0-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Stats" />
   </a>
