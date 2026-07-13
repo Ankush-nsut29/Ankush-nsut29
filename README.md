@@ -60,22 +60,25 @@
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
-  <a href="https://leetcode.com/u/isaidduh/">
-    <img src="https://leetcard.jacoblin.cool/isaidduh?theme=dark&ext=activity" alt="LeetCode Stats" width="400" />
-  </a>
-  <a href="https://codeforces.com/profile/akcodesalot">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=akcodesalot&theme=dark" alt="Codeforces Stats" width="400" />
-  </a>
-</div>
-<br/>
 
-<div align="center">
+  <a href="https://leetcode.com/u/isaidduh/">
+    <img src="https://img.shields.io/badge/LeetCode-isaidduh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/akcodesalot">
+    <img src="https://img.shields.io/badge/Codeforces-akcodesalot-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+
+  <br/><br/>
+
   <a href="https://www.codechef.com/users/akcodesalot_99">
-    <img src="https://codechef-readme-stats.onrender.com/akcodesalot_99?theme=dark" alt="CodeChef Stats" width="400" />
+    <img src="https://img.shields.io/badge/CodeChef-akcodesalot__99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/ak202taz0/">
-    <img src="https://gfgstatscard.vercel.app/ak202taz0?theme=dark" alt="GeeksforGeeks Stats" width="400" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-ak202taz0-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
+
 </div>
 
 <div align="center">
