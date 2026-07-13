@@ -10,7 +10,7 @@
 
 * 🎓 **B.Tech Math & Computing**, NSUT Delhi, batch 2029
 * ⚔️ Grinding **LeetCode + Codeforces + CodeChef + GFG** daily
-* 💻 Building with **Python/Flask**, learning **React + Node** for a web dev team (NALUM)
+* 💻 Building with **Python/Flask**, learning **React + Node** for a web dev team
 * 🎥 Run a [YouTube channel](https://www.youtube.com/@AKIZHERE0909) for coding/academics content
 
 <div align="center">
