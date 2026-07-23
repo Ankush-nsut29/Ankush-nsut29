@@ -60,13 +60,13 @@
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/isaidduh/"><img src="https://img.shields.io/badge/LeetCode-isaidduh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="260" height="28" /></a>
+  <a href="https://leetcode.com/u/isaidduh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-isaidduh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="260" height="28" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/akcodesalot"><img src="https://img.shields.io/badge/Codeforces-akcodesalot-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="260" height="28" /></a>
+  <a href="https://codeforces.com/profile/akcodesalot" target="_blank"><img src="https://img.shields.io/badge/Codeforces-akcodesalot-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="260" height="28" /></a>
   <br/><br/>
-  <a href="https://www.codechef.com/users/akcodesalot_99"><img src="https://img.shields.io/badge/CodeChef-akcodesalot__99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" width="260" height="28" /></a>
+  <a href="https://www.codechef.com/users/akcodesalot_99" target="_blank"><img src="https://img.shields.io/badge/CodeChef-akcodesalot__99-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" width="260" height="28" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/ak202taz0/"><img src="https://img.shields.io/badge/GeeksforGeeks-ak202taz0-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" width="260" height="28" /></a>
+  <a href="https://www.geeksforgeeks.org/user/ak202taz0/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-ak202taz0-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" width="260" height="28" /></a>
 </p>
 
 
